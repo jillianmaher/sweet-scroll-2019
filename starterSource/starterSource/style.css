@@ -50,3 +50,18 @@ h3 {
   background-attachment: fixed;
   background-image: url("ingredients.jpg");
 }
+
+.caption {
+  position: absolute;
+  top: 40%;
+  width: 100%;
+  text-align: center;
+}
+
+.border {
+  background-color: #41BAC1;
+  color: White;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
